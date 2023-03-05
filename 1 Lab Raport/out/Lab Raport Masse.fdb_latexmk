@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex out/Lab Raport Masse"] 1678026365 "out/Lab Raport Masse.aux" "out/Lab Raport Masse.bbl" "out/Lab Raport Masse" 1678026385
+["bibtex out/Lab Raport Masse"] 1678027934 "out/Lab Raport Masse.aux" "out/Lab Raport Masse.bbl" "out/Lab Raport Masse" 1678027941
   "C:/Users/oskar/AppData/Local/Programs/MiKTeX/bibtex/bst/revtex/apsrev4-2.bst" 1601731616 69609 e9dea59f0e753ccda3ddc8f5806d846d ""
-  "out/Lab Raport Masse.aux" 1678026383 13934 74dfc6a2801eff0d6b1a37f5330828af "pdflatex"
+  "out/Lab Raport Masse.aux" 1678027940 13943 332594f4abb1ba25f9f5b947c8e89001 "pdflatex"
   (generated)
   "out/Lab Raport Masse.bbl"
   "out/Lab Raport Masse.blg"
-["pdflatex"] 1678026374 "c:/Users/oskar/OneDrive - Universitetet i Oslo/Dokumenter/GitHub/Privat/FYS2150-Eksperimental-Fysikk/1 Lab Raport/Lab Raport Masse.tex" "out/Lab Raport Masse.pdf" "Lab Raport Masse" 1678026385
-  "C:/Users/oskar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1678025560 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1678027937 "c:/Users/oskar/OneDrive - Universitetet i Oslo/Dokumenter/GitHub/Privat/FYS2150-Eksperimental-Fysikk/1 Lab Raport/Lab Raport Masse.tex" "out/Lab Raport Masse.pdf" "Lab Raport Masse" 1678027941
+  "C:/Users/oskar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1678027378 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/oskar/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1662027572 10374549 ab9957c64f9e665f244136ccccd1caef ""
   "C:/Users/oskar/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/oskar/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm" 1234365220 996 a18840b13b499c08ac2de96a99eda4bc ""
@@ -131,8 +131,8 @@
   "C:/Users/oskar/AppData/Local/Programs/MiKTeX/tex/latex/ucs/utf8x.def" 1660466068 8944 1cf5de165d8b3a9de8975b4e3f40e814 ""
   "C:/Users/oskar/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/oskar/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656233290 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "Lab Raport Masse.tex" 1678026359 23702 c415cd37e096898f515ac8624dba18ab ""
-  "c:/Users/oskar/OneDrive - Universitetet i Oslo/Dokumenter/GitHub/Privat/FYS2150-Eksperimental-Fysikk/1 Lab Raport/Lab Raport Masse.tex" 1678026359 23702 c415cd37e096898f515ac8624dba18ab ""
+  "Lab Raport Masse.tex" 1678027922 23829 2b07619a22e2f5f8fe7ef6dfba90278d ""
+  "c:/Users/oskar/OneDrive - Universitetet i Oslo/Dokumenter/GitHub/Privat/FYS2150-Eksperimental-Fysikk/1 Lab Raport/Lab Raport Masse.tex" 1678027922 23829 2b07619a22e2f5f8fe7ef6dfba90278d ""
   "fig/Maaleur_B1232.PDF" 1677932246 355849 2ba3208134b465f08e4a11976986d124 ""
   "fig/balansevekt-ohaus-triple-beam-balance-manual.pdf" 1677940843 40098 3c6b3d4331d3d730ee327d06857000a5 ""
   "fig/balansevekt-ohaus-triple-beam-balance-manuals2.pdf" 1677940995 18242 73b660c92c013dcc6d8e190306fd50a7 ""
@@ -143,9 +143,9 @@
   "fig/oscillator_oppsett.png" 1677931188 1432290 fcb82216087a002d3fe87c4fbc827ccc ""
   "fig/proscalexc.pdf" 1677959929 294892 03d457f6cd86b9b62877d23af0bbb54a ""
   "fig/proscalexc2.pdf" 1677960024 126730 d7b7929366d120b5ec4fa2f387ec3b69 ""
-  "out/Lab Raport Masse.aux" 1678026383 13934 74dfc6a2801eff0d6b1a37f5330828af "pdflatex"
-  "out/Lab Raport Masse.bbl" 1678026365 2038 e03f3577820c2bf6c60bfe4d5a284fda "bibtex out/Lab Raport Masse"
-  "out/Lab Raport Masse.out" 1678026383 4288 5f5b7c6ae5fc9461d80cab0edffaafcf "pdflatex"
+  "out/Lab Raport Masse.aux" 1678027940 13943 332594f4abb1ba25f9f5b947c8e89001 "pdflatex"
+  "out/Lab Raport Masse.bbl" 1678027934 2038 e03f3577820c2bf6c60bfe4d5a284fda "bibtex out/Lab Raport Masse"
+  "out/Lab Raport Masse.out" 1678027940 4333 6889b6f3be95184953635654eecf5167 "pdflatex"
   (generated)
   "out/Lab Raport Masse.aux"
   "out/Lab Raport Masse.log"
