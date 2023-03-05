@@ -1,0 +1,27 @@
+=>PYTHONTEX#py#default#default#0#c#####388#
+import "C:\Users\oskar\OneDrive - Universitetet i Oslo\Dokumenter\GitHub\Privat\FYS2150-Eksperimental-Fysikk\Lab 4 - Masse og Kraft\script\elastic_deformation"
+=>PYTHONTEX:SETTINGS#
+version=0.18
+outputdir=pythontex-files-Lab-Raport-Masse
+workingdir=.
+workingdirset=false
+gobble=none
+rerun=default
+hashdependencies=default
+makestderr=false
+stderrfilename=full
+keeptemps=none
+pyfuture=default
+pyconfuture=none
+pygments=true
+pygglobal=:GLOBAL||
+fvextfile=-1
+pyconbanner=none
+pyconfilename=stdin
+depythontex=false
+pygfamily=py|python3|
+pygfamily=pycon|pycon|
+pygfamily=sympy|python3|
+pygfamily=sympycon|pycon|
+pygfamily=pylab|python3|
+pygfamily=pylabcon|pycon|

@@ -1,0 +1,36 @@
+Svar:
+
+1. 
+
+Usikkerheten ved lengde mål
+
+Usikkerheten ved differensnen
+
+Usikerheten ved direkte mål av diferansen
+Skyvelæret - 0.03 mm
+Tommerstokk - 0.31 mm
+
+
+2. 
+
+
+3. Hvordan fant vi vinkelen? 
+
+
+Ubesvart:
+Hva er tidsoppløsningen og frekvensoppløsningen for målingene
+
+Hva er usikkerheten for hastigheten
+
+
+Oppgi l_p med feilestimat s
+
+Spør Jannik om hans vinkler med usikkerhet og fremgangsmåte. 
+
+Beregn aksellerasjonen med disse vinklene. Enkel bruk av sinus og hypotenusen til å finne vertikal lengde reist. 
+
+Beregne alt via lineær regresjon
+
+
+
+
