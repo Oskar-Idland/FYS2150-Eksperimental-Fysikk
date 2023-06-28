@@ -1,0 +1,12 @@
+middelverdi: 227.32292623201715 varians til differanse mellom nabopiksler: 21.100353280277524
+middelverdi: 205.0144883175186 varians til differanse mellom nabopiksler: 20.295577655057873
+middelverdi: 163.29425568819508 varians til differanse mellom nabopiksler: 16.170452951229468
+middelverdi: 125.66564636261606 varians til differanse mellom nabopiksler: 12.321686279177861
+middelverdi: 93.907560453015 varians til differanse mellom nabopiksler: 9.560529360666145
+middelverdi: 72.9514335271911 varians til differanse mellom nabopiksler: 7.631610542858438
+middelverdi: 52.28935822875217 varians til differanse mellom nabopiksler: 5.868799482975094
+middelverdi: 33.48137945107642 varians til differanse mellom nabopiksler: 4.2410066995537585
+middelverdi: 18.013365983062954 varians til differanse mellom nabopiksler: 2.914105267301948
+middelverdi: 8.820936639118457 varians til differanse mellom nabopiksler: 2.139391069788797
+middelverdi: 0.39036832976226915 varians til differanse mellom nabopiksler: 0.6364502448552586
+middelverdi: 0.0 varians til differanse mellom nabopiksler: 0.0
